@@ -1,4 +1,4 @@
-# Seed Sowing Robot
+# Seed Sowing Mobile Robot
 
 ## Project Overview
 
